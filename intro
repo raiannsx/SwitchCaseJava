@@ -1,0 +1,17 @@
+public class Main{
+public static void main(String[] args){
+     int mes = 1;
+      
+      switch (mes) {
+case 1:
+System.out.println("trata-se do mês de janeiro");
+break;
+case 2:
+System.out.println("trata-se do mes fevereiro");
+break;
+default:
+System.out.println("mês inexistente");
+break;
+}
+}
+}
